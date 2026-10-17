@@ -9,8 +9,8 @@ Backend roots, relatively hungry.
 ## Featured work
 
 - [StockRate](https://github.com/sammatime22/StockRate) — a market-data pipeline on Kubernetes: sharded collectors, ActiveMQ orchestration, and a daily report of the biggest movers.
-- [MatchaDB](https://github.com/sammatime22/MatchaDB) — a database that turns a JSON document into a REST API (Java, Spring Boot). StockRate logs its run stats to it.
-- [sturl](https://github.com/sammatime22/sturl) — an API that checks where a TinyURL link really leads (Python, Flask, MongoDB). It uses the same orchestrator-and-worker design as StockRate.
+- [MatchaDB](https://github.com/sammatime22/MatchaDB) — a database that turns a JSON document into a REST API (Java, Spring Boot). 
+- [sturl](https://github.com/sammatime22/sturl) — an API that checks where a TinyURL link really leads (Python, Flask, MongoDB). 
 
 ## Stack
 
