@@ -4,7 +4,7 @@
 
 Backend roots, relatively hungry.
 
-⟳ **Learning** · distributed systems and market data, by building [StockRate](https://github.com/sammatime22/StockRate). Next up: GitOps and observability.
+⟳ **Learning** · distributed systems and fintech, by building [StockRate](https://github.com/sammatime22/StockRate).
 
 ## Featured work
 
